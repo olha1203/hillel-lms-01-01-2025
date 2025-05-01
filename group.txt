@@ -1,2 +1,3 @@
 hillel-lms-01-01-2025
 Практика Git — коміт №2
+Hello world

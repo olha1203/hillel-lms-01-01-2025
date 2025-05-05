@@ -1,0 +1,27 @@
+p,h2{
+font-size: 20px;
+color: darkred;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    color: darkred;
+    margin: 60px;
+}
+
+#main-title {
+    color: darkblue;
+    font-size: 30px;
+}
+
+.description {
+    font-size: 18px;
+    text-align: center;
+    margin: 30px 0
+}
+
+.photo {
+    width: 200px;
+    border-radius: 10px;
+}
